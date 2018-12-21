@@ -1,2 +1,2 @@
 # berita
-perubahan
+perubahan menjadi
